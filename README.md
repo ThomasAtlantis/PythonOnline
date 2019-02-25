@@ -1,7 +1,7 @@
 ## PythonOnline
 
 ### 1 写在前面
-更好的文章体验请访问我的个人网站：<a href="liushangyu.xyz" target=new>Atlantis</a>
+更好的文章体验请访问我的个人网站：[Atlantis](http://liushangyu.xyz)
 
 这个项目提供了一个对python程序进行在线运行的工具，我们只需要在输入区写入自己的代码，点击`提交运行`即可将程序推送到server后台，后台运行程序后将标准输出和标准错误返还给前端，在页面下方将得到程序的运行结果。下面是最终的界面效果：
 
